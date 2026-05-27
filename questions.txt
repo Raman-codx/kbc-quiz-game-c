@@ -1,0 +1,80 @@
+Who is known as Father of AI?
+Alan Turing
+John McCarthy
+Charles Babbage
+Dennis Ritchie
+B
+15
+1000
+Which language is mainly used for Machine Learning?
+C
+Python
+Java
+Assembly
+B
+15
+2000
+Who developed C language?
+Bjarne Stroustrup
+James Gosling
+Dennis Ritchie
+Guido van Rossum
+C
+15
+3000
+Which data structure follows FIFO?
+Stack
+Queue
+Tree
+Graph
+B
+15
+4000
+Which symbol ends a statement in C?
+:
+;
+.
+,
+B
+15
+5000
+Which header file is required for printf()?
+stdlib.h
+stdio.h
+string.h
+math.h
+B
+15
+6000
+Which loop executes at least once?
+for
+while
+do-while
+none
+C
+15
+7000
+Which company developed Windows?
+Apple
+IBM
+Microsoft
+Google
+C
+15
+8000
+What is the extension of Python file?
+.py
+.cpp
+.java
+.exe
+A
+15
+9000
+Which of the following is an Operating System?
+Compiler
+Linux
+Interpreter
+Database
+B
+15
+10000
