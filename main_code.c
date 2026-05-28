@@ -24,7 +24,6 @@ typedef struct
     char correct_option;
     int timeout;  
     int prize_money;
-
 }Question;
 
 int read_questions(char* file_name, Question** questions);
